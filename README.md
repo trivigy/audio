@@ -2,8 +2,6 @@
 
 Audio file player and visualizer based on the Web Audio API
 
-Demo: [Click Here](http://dev.kovits.com/audio-player/)
-
 ### Browser Support: 
 - Chrome (webkit) v14
 - Firefox (gecko) v23
